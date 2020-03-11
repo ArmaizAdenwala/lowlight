@@ -30,7 +30,7 @@
   ],
   "dependencies": {
     "fault": "^1.0.0",
-    "highlight.js": "~9.16.0"
+    "highlight.js": "https://github.com/ArmaizAdenwala/highlight.js"
   },
   "devDependencies": {
     "browserify": "^16.0.0",
